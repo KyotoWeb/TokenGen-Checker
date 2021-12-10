@@ -9,13 +9,7 @@
 
 ### <p align="center">✨Pain✨</p>
 
-<br><br>
-<p align="center">
-<strong>
-Pain Token checker and gen <a href="">Kramer</a>Python 3
-<br>
-<a href="https://github.com/billythegoat356/Scarecrow">Scarecrow</a> and using the <a href="https://github.com/billythegoat356/Riot">Riot</a> 
-<br>
+
 
 
 
